@@ -1,1000 +1,1000 @@
--Point(799,59) in cluster: 4
--Point(131,762) in cluster: 1
--Point(192,334) in cluster: 2
--Point(539,873) in cluster: 0
--Point(188,163) in cluster: 2
--Point(958,309) in cluster: 4
--Point(896,760) in cluster: 0
--Point(802,133) in cluster: 4
--Point(442,825) in cluster: 1
--Point(297,151) in cluster: 2
--Point(51,706) in cluster: 1
--Point(903,910) in cluster: 0
--Point(187,795) in cluster: 1
--Point(413,576) in cluster: 1
--Point(569,344) in cluster: 3
--Point(517,758) in cluster: 0
--Point(184,480) in cluster: 2
--Point(814,66) in cluster: 4
--Point(577,307) in cluster: 3
--Point(93,987) in cluster: 1
--Point(986,69) in cluster: 4
--Point(284,134) in cluster: 2
--Point(73,642) in cluster: 1
--Point(144,63) in cluster: 2
--Point(903,620) in cluster: 0
--Point(3,817) in cluster: 1
--Point(462,98) in cluster: 3
--Point(132,291) in cluster: 2
--Point(630,559) in cluster: 0
--Point(640,977) in cluster: 0
--Point(287,371) in cluster: 2
--Point(561,77) in cluster: 3
--Point(377,196) in cluster: 3
--Point(368,203) in cluster: 3
--Point(376,471) in cluster: 2
--Point(10,412) in cluster: 2
--Point(404,448) in cluster: 3
--Point(356,851) in cluster: 1
--Point(226,181) in cluster: 2
--Point(417,677) in cluster: 1
--Point(653,455) in cluster: 3
--Point(474,432) in cluster: 3
--Point(614,615) in cluster: 0
--Point(615,17) in cluster: 3
--Point(440,795) in cluster: 1
--Point(573,437) in cluster: 3
--Point(315,723) in cluster: 1
--Point(76,584) in cluster: 1
--Point(961,825) in cluster: 0
--Point(511,154) in cluster: 3
--Point(889,947) in cluster: 0
--Point(267,203) in cluster: 2
--Point(888,772) in cluster: 0
--Point(92,231) in cluster: 2
--Point(774,271) in cluster: 4
--Point(607,312) in cluster: 3
--Point(655,793) in cluster: 0
--Point(131,142) in cluster: 2
--Point(108,266) in cluster: 2
--Point(259,947) in cluster: 1
--Point(304,841) in cluster: 1
--Point(583,359) in cluster: 3
--Point(522,287) in cluster: 3
--Point(567,371) in cluster: 3
--Point(465,65) in cluster: 3
--Point(481,881) in cluster: 1
--Point(73,729) in cluster: 1
--Point(804,394) in cluster: 4
--Point(874,316) in cluster: 4
--Point(958,823) in cluster: 0
--Point(634,445) in cluster: 3
--Point(449,120) in cluster: 3
--Point(938,25) in cluster: 4
--Point(50,240) in cluster: 2
--Point(706,894) in cluster: 0
--Point(972,131) in cluster: 4
--Point(928,386) in cluster: 4
--Point(905,490) in cluster: 4
--Point(738,494) in cluster: 0
--Point(797,900) in cluster: 0
--Point(931,138) in cluster: 4
--Point(821,25) in cluster: 4
--Point(857,747) in cluster: 0
--Point(901,208) in cluster: 4
--Point(910,113) in cluster: 4
--Point(345,238) in cluster: 3
--Point(0,888) in cluster: 1
--Point(481,256) in cluster: 3
--Point(356,628) in cluster: 1
--Point(268,516) in cluster: 2
--Point(475,457) in cluster: 3
--Point(850,427) in cluster: 4
--Point(720,732) in cluster: 0
--Point(602,148) in cluster: 3
--Point(199,940) in cluster: 1
--Point(759,98) in cluster: 4
--Point(923,299) in cluster: 4
--Point(768,846) in cluster: 0
--Point(17,743) in cluster: 1
--Point(917,796) in cluster: 0
--Point(649,659) in cluster: 0
--Point(952,764) in cluster: 0
--Point(271,525) in cluster: 2
--Point(76,979) in cluster: 1
--Point(805,225) in cluster: 4
--Point(31,449) in cluster: 2
--Point(322,894) in cluster: 1
--Point(62,702) in cluster: 1
--Point(400,454) in cluster: 3
--Point(636,35) in cluster: 3
--Point(349,616) in cluster: 1
--Point(46,571) in cluster: 2
--Point(907,263) in cluster: 4
--Point(129,744) in cluster: 1
--Point(691,326) in cluster: 4
--Point(86,571) in cluster: 2
--Point(913,513) in cluster: 4
--Point(204,510) in cluster: 2
--Point(35,756) in cluster: 1
--Point(577,141) in cluster: 3
--Point(779,662) in cluster: 0
--Point(762,625) in cluster: 0
--Point(200,391) in cluster: 2
--Point(117,545) in cluster: 2
--Point(81,81) in cluster: 2
--Point(24,791) in cluster: 1
--Point(769,695) in cluster: 0
--Point(425,136) in cluster: 3
--Point(142,925) in cluster: 1
--Point(564,216) in cluster: 3
--Point(393,854) in cluster: 1
--Point(484,242) in cluster: 3
--Point(289,616) in cluster: 1
--Point(440,699) in cluster: 1
--Point(936,608) in cluster: 0
--Point(771,402) in cluster: 4
--Point(55,581) in cluster: 1
--Point(967,777) in cluster: 0
--Point(791,805) in cluster: 0
--Point(827,706) in cluster: 0
--Point(328,591) in cluster: 1
--Point(323,696) in cluster: 1
--Point(915,929) in cluster: 0
--Point(417,955) in cluster: 1
--Point(790,49) in cluster: 4
--Point(378,396) in cluster: 3
--Point(878,293) in cluster: 4
--Point(811,350) in cluster: 4
--Point(188,890) in cluster: 1
--Point(763,686) in cluster: 0
--Point(989,72) in cluster: 4
--Point(567,432) in cluster: 3
--Point(892,123) in cluster: 4
--Point(616,90) in cluster: 3
--Point(293,253) in cluster: 2
--Point(36,269) in cluster: 2
--Point(490,949) in cluster: 1
--Point(703,366) in cluster: 4
--Point(354,277) in cluster: 3
--Point(717,631) in cluster: 0
--Point(768,555) in cluster: 0
--Point(250,886) in cluster: 1
--Point(329,982) in cluster: 1
--Point(553,288) in cluster: 3
--Point(800,197) in cluster: 4
--Point(846,95) in cluster: 4
--Point(871,932) in cluster: 0
--Point(603,859) in cluster: 0
--Point(634,392) in cluster: 3
--Point(857,745) in cluster: 0
--Point(304,630) in cluster: 1
--Point(522,255) in cluster: 3
--Point(281,195) in cluster: 2
--Point(994,565) in cluster: 0
--Point(991,469) in cluster: 4
--Point(557,971) in cluster: 0
--Point(769,185) in cluster: 4
--Point(481,44) in cluster: 3
--Point(756,9) in cluster: 4
--Point(564,971) in cluster: 0
--Point(60,432) in cluster: 2
--Point(278,319) in cluster: 2
--Point(318,871) in cluster: 1
--Point(217,323) in cluster: 2
--Point(264,958) in cluster: 1
--Point(42,970) in cluster: 1
--Point(894,136) in cluster: 4
--Point(80,262) in cluster: 2
--Point(339,911) in cluster: 1
--Point(998,828) in cluster: 0
--Point(152,259) in cluster: 2
--Point(988,390) in cluster: 4
--Point(512,353) in cluster: 3
--Point(605,2) in cluster: 3
--Point(419,46) in cluster: 3
--Point(177,545) in cluster: 2
--Point(484,970) in cluster: 1
--Point(921,422) in cluster: 4
--Point(146,649) in cluster: 1
--Point(664,148) in cluster: 3
--Point(655,825) in cluster: 0
--Point(345,661) in cluster: 1
--Point(781,508) in cluster: 0
--Point(821,779) in cluster: 0
--Point(983,778) in cluster: 0
--Point(805,857) in cluster: 0
--Point(98,7) in cluster: 2
--Point(694,274) in cluster: 4
--Point(474,64) in cluster: 3
--Point(783,961) in cluster: 0
--Point(647,107) in cluster: 3
--Point(638,644) in cluster: 0
--Point(265,403) in cluster: 2
--Point(827,793) in cluster: 0
--Point(296,793) in cluster: 1
--Point(56,376) in cluster: 2
--Point(577,187) in cluster: 3
--Point(931,643) in cluster: 0
--Point(973,694) in cluster: 0
--Point(448,74) in cluster: 3
--Point(357,350) in cluster: 2
--Point(385,904) in cluster: 1
--Point(709,4) in cluster: 4
--Point(41,651) in cluster: 1
--Point(837,716) in cluster: 0
--Point(318,974) in cluster: 1
--Point(267,498) in cluster: 2
--Point(133,416) in cluster: 2
--Point(196,466) in cluster: 2
--Point(158,457) in cluster: 2
--Point(352,658) in cluster: 1
--Point(915,179) in cluster: 4
--Point(510,99) in cluster: 3
--Point(879,984) in cluster: 0
--Point(553,721) in cluster: 0
--Point(205,523) in cluster: 2
--Point(13,526) in cluster: 2
--Point(217,274) in cluster: 2
--Point(47,939) in cluster: 1
--Point(632,928) in cluster: 0
--Point(939,333) in cluster: 4
--Point(847,855) in cluster: 0
--Point(923,981) in cluster: 0
--Point(201,116) in cluster: 2
--Point(656,452) in cluster: 3
--Point(728,766) in cluster: 0
--Point(548,643) in cluster: 0
--Point(270,23) in cluster: 2
--Point(320,24) in cluster: 3
--Point(698,679) in cluster: 0
--Point(373,899) in cluster: 1
--Point(146,222) in cluster: 2
--Point(893,114) in cluster: 4
--Point(730,730) in cluster: 0
--Point(974,494) in cluster: 4
--Point(709,697) in cluster: 0
--Point(689,41) in cluster: 3
--Point(851,975) in cluster: 0
--Point(574,514) in cluster: 3
--Point(296,554) in cluster: 1
--Point(102,650) in cluster: 1
--Point(357,840) in cluster: 1
--Point(812,196) in cluster: 4
--Point(398,997) in cluster: 1
--Point(60,480) in cluster: 2
--Point(155,692) in cluster: 1
--Point(96,585) in cluster: 1
--Point(81,113) in cluster: 2
--Point(803,879) in cluster: 0
--Point(481,320) in cluster: 3
--Point(96,869) in cluster: 1
--Point(725,861) in cluster: 0
--Point(753,702) in cluster: 0
--Point(547,633) in cluster: 0
--Point(657,105) in cluster: 3
--Point(630,212) in cluster: 3
--Point(706,363) in cluster: 4
--Point(881,65) in cluster: 4
--Point(964,543) in cluster: 0
--Point(937,233) in cluster: 4
--Point(134,644) in cluster: 1
--Point(554,339) in cluster: 3
--Point(694,363) in cluster: 4
--Point(969,246) in cluster: 4
--Point(111,573) in cluster: 1
--Point(567,143) in cluster: 3
--Point(878,655) in cluster: 0
--Point(158,664) in cluster: 1
--Point(132,877) in cluster: 1
--Point(928,198) in cluster: 4
--Point(978,550) in cluster: 0
--Point(209,318) in cluster: 2
--Point(443,477) in cluster: 3
--Point(205,460) in cluster: 2
--Point(220,310) in cluster: 2
--Point(381,707) in cluster: 1
--Point(66,232) in cluster: 2
--Point(139,918) in cluster: 1
--Point(579,864) in cluster: 0
--Point(789,344) in cluster: 4
--Point(940,373) in cluster: 4
--Point(220,655) in cluster: 1
--Point(330,685) in cluster: 1
--Point(150,50) in cluster: 2
--Point(504,770) in cluster: 1
--Point(526,55) in cluster: 3
--Point(957,508) in cluster: 4
--Point(898,775) in cluster: 0
--Point(293,678) in cluster: 1
--Point(908,650) in cluster: 0
--Point(86,602) in cluster: 1
--Point(670,680) in cluster: 0
--Point(242,181) in cluster: 2
--Point(579,918) in cluster: 0
--Point(177,447) in cluster: 2
--Point(671,574) in cluster: 0
--Point(56,971) in cluster: 1
--Point(132,961) in cluster: 1
--Point(137,491) in cluster: 2
--Point(72,25) in cluster: 2
--Point(428,298) in cluster: 3
--Point(83,324) in cluster: 2
--Point(783,812) in cluster: 0
--Point(767,942) in cluster: 0
--Point(922,314) in cluster: 4
--Point(928,585) in cluster: 0
--Point(290,80) in cluster: 2
--Point(446,126) in cluster: 3
--Point(540,40) in cluster: 3
--Point(19,292) in cluster: 2
--Point(583,54) in cluster: 3
--Point(874,967) in cluster: 0
--Point(491,295) in cluster: 3
--Point(983,383) in cluster: 4
--Point(180,890) in cluster: 1
--Point(660,884) in cluster: 0
--Point(623,518) in cluster: 0
--Point(420,862) in cluster: 1
--Point(772,132) in cluster: 4
--Point(509,235) in cluster: 3
--Point(947,329) in cluster: 4
--Point(765,846) in cluster: 0
--Point(504,988) in cluster: 1
--Point(26,12) in cluster: 2
--Point(259,756) in cluster: 1
--Point(760,3) in cluster: 4
--Point(921,702) in cluster: 0
--Point(464,227) in cluster: 3
--Point(493,307) in cluster: 3
--Point(208,882) in cluster: 1
--Point(73,543) in cluster: 2
--Point(601,238) in cluster: 3
--Point(748,986) in cluster: 0
--Point(318,342) in cluster: 2
--Point(881,636) in cluster: 0
--Point(87,835) in cluster: 1
--Point(199,374) in cluster: 2
--Point(170,353) in cluster: 2
--Point(361,857) in cluster: 1
--Point(339,282) in cluster: 2
--Point(801,465) in cluster: 4
--Point(738,523) in cluster: 0
--Point(704,12) in cluster: 4
--Point(933,219) in cluster: 4
--Point(979,303) in cluster: 4
--Point(253,121) in cluster: 2
--Point(209,430) in cluster: 2
--Point(946,567) in cluster: 0
--Point(418,196) in cluster: 3
--Point(468,552) in cluster: 1
--Point(841,82) in cluster: 4
--Point(77,706) in cluster: 1
--Point(701,701) in cluster: 0
--Point(135,848) in cluster: 1
--Point(568,54) in cluster: 3
--Point(149,399) in cluster: 2
--Point(422,207) in cluster: 3
--Point(603,382) in cluster: 3
--Point(219,180) in cluster: 2
--Point(385,614) in cluster: 1
--Point(83,483) in cluster: 2
--Point(191,294) in cluster: 2
--Point(354,391) in cluster: 2
--Point(946,635) in cluster: 0
--Point(396,398) in cluster: 3
--Point(978,344) in cluster: 4
--Point(391,426) in cluster: 3
--Point(133,828) in cluster: 1
--Point(691,722) in cluster: 0
--Point(881,69) in cluster: 4
--Point(186,200) in cluster: 2
--Point(90,832) in cluster: 1
--Point(46,143) in cluster: 2
--Point(251,53) in cluster: 2
--Point(712,217) in cluster: 4
--Point(871,563) in cluster: 0
--Point(552,638) in cluster: 0
--Point(226,563) in cluster: 1
--Point(180,6) in cluster: 2
--Point(880,381) in cluster: 4
--Point(546,892) in cluster: 0
--Point(419,159) in cluster: 3
--Point(804,861) in cluster: 0
--Point(100,391) in cluster: 2
--Point(725,32) in cluster: 4
--Point(746,890) in cluster: 0
--Point(54,876) in cluster: 1
--Point(308,583) in cluster: 1
--Point(758,247) in cluster: 4
--Point(300,948) in cluster: 1
--Point(688,93) in cluster: 3
--Point(353,729) in cluster: 1
--Point(874,731) in cluster: 0
--Point(594,527) in cluster: 0
--Point(196,420) in cluster: 2
--Point(711,596) in cluster: 0
--Point(628,354) in cluster: 3
--Point(196,480) in cluster: 2
--Point(588,308) in cluster: 3
--Point(459,628) in cluster: 1
--Point(833,309) in cluster: 4
--Point(439,503) in cluster: 3
--Point(960,662) in cluster: 0
--Point(97,478) in cluster: 2
--Point(52,232) in cluster: 2
--Point(722,512) in cluster: 0
--Point(837,523) in cluster: 0
--Point(284,907) in cluster: 1
--Point(771,553) in cluster: 0
--Point(958,872) in cluster: 0
--Point(581,76) in cluster: 3
--Point(965,491) in cluster: 4
--Point(771,528) in cluster: 0
--Point(652,303) in cluster: 3
--Point(53,807) in cluster: 1
--Point(785,607) in cluster: 0
--Point(991,218) in cluster: 4
--Point(993,65) in cluster: 4
--Point(839,473) in cluster: 4
--Point(122,89) in cluster: 2
--Point(841,81) in cluster: 4
--Point(206,250) in cluster: 2
--Point(826,236) in cluster: 4
--Point(668,69) in cluster: 3
--Point(541,451) in cluster: 3
--Point(624,88) in cluster: 3
--Point(234,53) in cluster: 2
--Point(624,419) in cluster: 3
--Point(640,555) in cluster: 0
--Point(817,426) in cluster: 4
--Point(262,838) in cluster: 1
--Point(576,144) in cluster: 3
--Point(786,135) in cluster: 4
--Point(980,22) in cluster: 4
--Point(758,895) in cluster: 0
--Point(645,925) in cluster: 0
--Point(163,841) in cluster: 1
--Point(868,2) in cluster: 4
--Point(497,337) in cluster: 3
--Point(12,619) in cluster: 1
--Point(898,498) in cluster: 4
--Point(431,212) in cluster: 3
--Point(661,883) in cluster: 0
--Point(785,944) in cluster: 0
--Point(332,220) in cluster: 3
--Point(462,20) in cluster: 3
--Point(957,31) in cluster: 4
--Point(392,810) in cluster: 1
--Point(971,369) in cluster: 4
--Point(955,312) in cluster: 4
--Point(673,275) in cluster: 3
--Point(348,935) in cluster: 1
--Point(802,763) in cluster: 0
--Point(127,468) in cluster: 2
--Point(149,260) in cluster: 2
--Point(250,698) in cluster: 1
--Point(116,383) in cluster: 2
--Point(348,997) in cluster: 1
--Point(550,771) in cluster: 0
--Point(905,823) in cluster: 0
--Point(486,203) in cluster: 3
--Point(120,412) in cluster: 2
--Point(596,202) in cluster: 3
--Point(803,656) in cluster: 0
--Point(919,525) in cluster: 0
--Point(523,50) in cluster: 3
--Point(699,788) in cluster: 0
--Point(420,756) in cluster: 1
--Point(740,521) in cluster: 0
--Point(858,745) in cluster: 0
--Point(472,629) in cluster: 1
--Point(714,137) in cluster: 4
--Point(367,909) in cluster: 1
--Point(511,143) in cluster: 3
--Point(596,838) in cluster: 0
--Point(241,527) in cluster: 2
--Point(434,369) in cluster: 3
--Point(518,935) in cluster: 1
--Point(447,511) in cluster: 3
--Point(860,276) in cluster: 4
--Point(793,805) in cluster: 0
--Point(310,861) in cluster: 1
--Point(367,941) in cluster: 1
--Point(808,876) in cluster: 0
--Point(312,402) in cluster: 2
--Point(986,585) in cluster: 0
--Point(390,348) in cluster: 3
--Point(322,683) in cluster: 1
--Point(520,161) in cluster: 3
--Point(892,378) in cluster: 4
--Point(507,637) in cluster: 0
--Point(669,90) in cluster: 3
--Point(304,501) in cluster: 2
--Point(72,697) in cluster: 1
--Point(610,221) in cluster: 3
--Point(544,25) in cluster: 3
--Point(565,178) in cluster: 3
--Point(926,647) in cluster: 0
--Point(981,743) in cluster: 0
--Point(545,33) in cluster: 3
--Point(77,50) in cluster: 2
--Point(322,873) in cluster: 1
--Point(463,7) in cluster: 3
--Point(680,411) in cluster: 4
--Point(44,259) in cluster: 2
--Point(497,598) in cluster: 1
--Point(347,623) in cluster: 1
--Point(23,277) in cluster: 2
--Point(600,615) in cluster: 0
--Point(676,269) in cluster: 3
--Point(646,168) in cluster: 3
--Point(441,350) in cluster: 3
--Point(277,929) in cluster: 1
--Point(470,790) in cluster: 1
--Point(731,946) in cluster: 0
--Point(490,134) in cluster: 3
--Point(328,596) in cluster: 1
--Point(129,37) in cluster: 2
--Point(155,145) in cluster: 2
--Point(462,528) in cluster: 3
--Point(336,120) in cluster: 3
--Point(775,863) in cluster: 0
--Point(726,91) in cluster: 4
--Point(605,989) in cluster: 0
--Point(767,673) in cluster: 0
--Point(41,214) in cluster: 2
--Point(139,868) in cluster: 1
--Point(290,290) in cluster: 2
--Point(208,636) in cluster: 1
--Point(917,840) in cluster: 0
--Point(667,550) in cluster: 0
--Point(968,225) in cluster: 4
--Point(209,289) in cluster: 2
--Point(225,830) in cluster: 1
--Point(157,123) in cluster: 2
--Point(602,214) in cluster: 3
--Point(633,73) in cluster: 3
--Point(958,219) in cluster: 4
--Point(424,31) in cluster: 3
--Point(564,837) in cluster: 0
--Point(408,48) in cluster: 3
--Point(550,384) in cluster: 3
--Point(641,621) in cluster: 0
--Point(940,665) in cluster: 0
--Point(409,509) in cluster: 3
--Point(795,563) in cluster: 0
--Point(842,340) in cluster: 4
--Point(954,340) in cluster: 4
--Point(975,101) in cluster: 4
--Point(223,118) in cluster: 2
--Point(112,216) in cluster: 2
--Point(115,422) in cluster: 2
--Point(565,915) in cluster: 0
--Point(475,988) in cluster: 1
--Point(104,172) in cluster: 2
--Point(783,449) in cluster: 4
--Point(563,5) in cluster: 3
--Point(230,484) in cluster: 2
--Point(148,781) in cluster: 1
--Point(88,668) in cluster: 1
--Point(320,827) in cluster: 1
--Point(389,603) in cluster: 1
--Point(774,546) in cluster: 0
--Point(159,34) in cluster: 2
--Point(303,807) in cluster: 1
--Point(737,949) in cluster: 0
--Point(361,91) in cluster: 3
--Point(546,504) in cluster: 3
--Point(32,299) in cluster: 2
--Point(429,124) in cluster: 3
--Point(95,936) in cluster: 1
--Point(94,685) in cluster: 1
--Point(687,51) in cluster: 3
--Point(769,903) in cluster: 0
--Point(548,768) in cluster: 0
--Point(260,925) in cluster: 1
--Point(144,171) in cluster: 2
--Point(220,54) in cluster: 2
--Point(911,779) in cluster: 0
--Point(987,585) in cluster: 0
--Point(146,517) in cluster: 2
--Point(844,488) in cluster: 4
--Point(377,296) in cluster: 3
--Point(684,486) in cluster: 0
--Point(198,925) in cluster: 1
--Point(936,948) in cluster: 0
--Point(590,642) in cluster: 0
--Point(555,47) in cluster: 3
--Point(681,858) in cluster: 0
--Point(253,88) in cluster: 2
--Point(734,362) in cluster: 4
--Point(561,897) in cluster: 0
--Point(217,373) in cluster: 2
--Point(512,619) in cluster: 0
--Point(88,883) in cluster: 1
--Point(328,918) in cluster: 1
--Point(632,760) in cluster: 0
--Point(603,106) in cluster: 3
--Point(216,587) in cluster: 1
--Point(429,467) in cluster: 3
--Point(688,604) in cluster: 0
--Point(734,278) in cluster: 4
--Point(276,289) in cluster: 2
--Point(396,4) in cluster: 3
--Point(780,81) in cluster: 4
--Point(810,780) in cluster: 0
--Point(862,731) in cluster: 0
--Point(839,971) in cluster: 0
--Point(340,391) in cluster: 2
--Point(920,813) in cluster: 0
--Point(781,859) in cluster: 0
--Point(314,113) in cluster: 3
--Point(609,178) in cluster: 3
--Point(45,81) in cluster: 2
--Point(660,995) in cluster: 0
--Point(201,601) in cluster: 1
--Point(10,525) in cluster: 2
--Point(621,50) in cluster: 3
--Point(288,291) in cluster: 2
--Point(971,151) in cluster: 4
--Point(786,676) in cluster: 0
--Point(791,687) in cluster: 0
--Point(670,279) in cluster: 3
--Point(445,885) in cluster: 1
--Point(770,874) in cluster: 0
--Point(442,605) in cluster: 1
--Point(327,338) in cluster: 2
--Point(879,856) in cluster: 0
--Point(935,992) in cluster: 0
--Point(982,128) in cluster: 4
--Point(309,670) in cluster: 1
--Point(800,919) in cluster: 0
--Point(897,569) in cluster: 0
--Point(679,64) in cluster: 3
--Point(553,108) in cluster: 3
--Point(407,50) in cluster: 3
--Point(89,703) in cluster: 1
--Point(855,771) in cluster: 0
--Point(812,624) in cluster: 0
--Point(822,219) in cluster: 4
--Point(838,634) in cluster: 0
--Point(900,48) in cluster: 4
--Point(41,99) in cluster: 2
--Point(36,566) in cluster: 2
--Point(936,407) in cluster: 4
--Point(622,606) in cluster: 0
--Point(907,682) in cluster: 0
--Point(188,860) in cluster: 1
--Point(307,1) in cluster: 3
--Point(585,373) in cluster: 3
--Point(122,973) in cluster: 1
--Point(530,435) in cluster: 3
--Point(772,961) in cluster: 0
--Point(445,655) in cluster: 1
--Point(389,503) in cluster: 2
--Point(925,585) in cluster: 0
--Point(548,675) in cluster: 0
--Point(399,412) in cluster: 3
--Point(711,586) in cluster: 0
--Point(178,509) in cluster: 2
--Point(236,833) in cluster: 1
--Point(994,294) in cluster: 4
--Point(183,205) in cluster: 2
--Point(488,660) in cluster: 1
--Point(700,304) in cluster: 4
--Point(459,686) in cluster: 1
--Point(172,362) in cluster: 2
--Point(20,872) in cluster: 1
--Point(250,69) in cluster: 2
--Point(932,468) in cluster: 4
--Point(28,358) in cluster: 2
--Point(77,225) in cluster: 2
--Point(1000,550) in cluster: 0
--Point(13,306) in cluster: 2
--Point(875,257) in cluster: 4
--Point(409,23) in cluster: 3
--Point(363,446) in cluster: 2
--Point(374,733) in cluster: 1
--Point(871,795) in cluster: 0
--Point(651,981) in cluster: 0
--Point(451,0) in cluster: 3
--Point(68,161) in cluster: 2
--Point(379,175) in cluster: 3
--Point(343,514) in cluster: 2
--Point(47,855) in cluster: 1
--Point(56,837) in cluster: 1
--Point(753,791) in cluster: 0
--Point(649,872) in cluster: 0
--Point(235,918) in cluster: 1
--Point(155,686) in cluster: 1
--Point(378,907) in cluster: 1
--Point(141,475) in cluster: 2
--Point(995,686) in cluster: 0
--Point(536,159) in cluster: 3
--Point(105,267) in cluster: 2
--Point(6,208) in cluster: 2
--Point(485,776) in cluster: 1
--Point(973,992) in cluster: 0
--Point(696,948) in cluster: 0
--Point(288,322) in cluster: 2
--Point(48,817) in cluster: 1
--Point(365,439) in cluster: 2
--Point(903,609) in cluster: 0
--Point(384,182) in cluster: 3
--Point(394,86) in cluster: 3
--Point(437,124) in cluster: 3
--Point(528,794) in cluster: 0
--Point(468,300) in cluster: 3
--Point(870,734) in cluster: 0
--Point(905,666) in cluster: 0
--Point(80,574) in cluster: 2
--Point(494,301) in cluster: 3
--Point(910,199) in cluster: 4
--Point(16,894) in cluster: 1
--Point(159,948) in cluster: 1
--Point(482,211) in cluster: 3
--Point(425,983) in cluster: 1
--Point(802,669) in cluster: 0
--Point(417,832) in cluster: 1
--Point(431,905) in cluster: 1
--Point(518,790) in cluster: 0
--Point(720,372) in cluster: 4
--Point(901,755) in cluster: 0
--Point(761,575) in cluster: 0
--Point(827,398) in cluster: 4
--Point(164,386) in cluster: 2
--Point(209,691) in cluster: 1
--Point(988,790) in cluster: 0
--Point(411,506) in cluster: 3
--Point(856,761) in cluster: 0
--Point(393,165) in cluster: 3
--Point(932,460) in cluster: 4
--Point(339,673) in cluster: 1
--Point(511,166) in cluster: 3
--Point(122,983) in cluster: 1
--Point(51,440) in cluster: 2
--Point(892,696) in cluster: 0
--Point(910,259) in cluster: 4
--Point(220,357) in cluster: 2
--Point(942,395) in cluster: 4
--Point(310,413) in cluster: 2
--Point(458,699) in cluster: 1
--Point(810,153) in cluster: 4
--Point(872,871) in cluster: 0
--Point(861,823) in cluster: 0
--Point(513,700) in cluster: 0
--Point(961,677) in cluster: 0
--Point(363,434) in cluster: 2
--Point(590,3) in cluster: 3
--Point(550,208) in cluster: 3
--Point(36,753) in cluster: 1
--Point(483,980) in cluster: 1
--Point(669,346) in cluster: 3
--Point(966,457) in cluster: 4
--Point(923,217) in cluster: 4
--Point(236,980) in cluster: 1
--Point(236,530) in cluster: 2
--Point(865,650) in cluster: 0
--Point(702,423) in cluster: 4
--Point(96,15) in cluster: 2
--Point(154,885) in cluster: 1
--Point(366,878) in cluster: 1
--Point(808,796) in cluster: 0
--Point(122,361) in cluster: 2
--Point(482,358) in cluster: 3
--Point(317,302) in cluster: 2
--Point(373,509) in cluster: 2
--Point(449,277) in cluster: 3
--Point(876,222) in cluster: 4
--Point(426,610) in cluster: 1
--Point(698,344) in cluster: 4
--Point(543,783) in cluster: 0
--Point(316,651) in cluster: 1
--Point(477,128) in cluster: 3
--Point(286,64) in cluster: 2
--Point(340,34) in cluster: 3
--Point(251,79) in cluster: 2
--Point(491,227) in cluster: 3
--Point(288,976) in cluster: 1
--Point(205,788) in cluster: 1
--Point(303,833) in cluster: 1
--Point(29,456) in cluster: 2
--Point(248,352) in cluster: 2
--Point(285,213) in cluster: 2
--Point(830,46) in cluster: 4
--Point(938,398) in cluster: 4
--Point(203,776) in cluster: 1
--Point(544,983) in cluster: 0
--Point(994,378) in cluster: 4
--Point(815,889) in cluster: 0
--Point(525,766) in cluster: 0
--Point(959,613) in cluster: 0
--Point(817,545) in cluster: 0
--Point(0,329) in cluster: 2
--Point(444,990) in cluster: 1
--Point(736,804) in cluster: 0
--Point(499,460) in cluster: 3
--Point(834,927) in cluster: 0
--Point(531,343) in cluster: 3
--Point(261,211) in cluster: 2
--Point(873,310) in cluster: 4
--Point(310,930) in cluster: 1
--Point(377,548) in cluster: 1
--Point(421,72) in cluster: 3
--Point(906,837) in cluster: 0
--Point(13,238) in cluster: 2
--Point(221,952) in cluster: 1
--Point(96,354) in cluster: 2
--Point(538,590) in cluster: 0
--Point(812,494) in cluster: 4
--Point(168,692) in cluster: 1
--Point(846,494) in cluster: 4
--Point(845,619) in cluster: 0
--Point(287,145) in cluster: 2
--Point(154,116) in cluster: 2
--Point(718,23) in cluster: 4
--Point(642,662) in cluster: 0
--Point(554,21) in cluster: 3
--Point(313,480) in cluster: 2
--Point(336,913) in cluster: 1
--Point(298,243) in cluster: 2
--Point(505,749) in cluster: 1
--Point(32,182) in cluster: 2
--Point(762,754) in cluster: 0
--Point(604,225) in cluster: 3
--Point(109,264) in cluster: 2
--Point(352,895) in cluster: 1
--Point(668,582) in cluster: 0
--Point(660,597) in cluster: 0
--Point(739,770) in cluster: 0
--Point(866,499) in cluster: 4
--Point(446,324) in cluster: 3
--Point(705,217) in cluster: 4
--Point(205,231) in cluster: 2
--Point(765,186) in cluster: 4
--Point(285,797) in cluster: 1
--Point(668,734) in cluster: 0
--Point(551,448) in cluster: 3
--Point(129,64) in cluster: 2
--Point(623,368) in cluster: 3
--Point(894,92) in cluster: 4
--Point(656,315) in cluster: 3
--Point(217,414) in cluster: 2
--Point(857,631) in cluster: 0
--Point(808,677) in cluster: 0
--Point(309,939) in cluster: 1
--Point(239,528) in cluster: 2
--Point(224,267) in cluster: 2
--Point(118,34) in cluster: 2
--Point(880,12) in cluster: 4
--Point(267,59) in cluster: 2
--Point(702,274) in cluster: 4
--Point(85,478) in cluster: 2
--Point(260,879) in cluster: 1
--Point(2,994) in cluster: 1
--Point(124,786) in cluster: 1
--Point(58,503) in cluster: 2
--Point(526,757) in cluster: 0
--Point(55,983) in cluster: 1
--Point(109,377) in cluster: 2
--Point(705,892) in cluster: 0
--Point(965,249) in cluster: 4
--Point(267,995) in cluster: 1
--Point(863,359) in cluster: 4
--Point(868,983) in cluster: 0
--Point(532,832) in cluster: 0
--Point(492,935) in cluster: 1
--Point(13,944) in cluster: 1
--Point(968,520) in cluster: 4
--Point(664,595) in cluster: 0
--Point(942,1) in cluster: 4
--Point(59,120) in cluster: 2
--Point(416,357) in cluster: 3
--Point(879,321) in cluster: 4
--Point(488,179) in cluster: 3
--Point(734,222) in cluster: 4
--Point(763,461) in cluster: 4
--Point(825,900) in cluster: 0
--Point(233,590) in cluster: 1
--Point(44,761) in cluster: 1
--Point(197,12) in cluster: 2
--Point(25,329) in cluster: 2
--Point(194,654) in cluster: 1
--Point(920,143) in cluster: 4
--Point(592,265) in cluster: 3
--Point(217,305) in cluster: 2
--Point(37,551) in cluster: 2
--Point(372,155) in cluster: 3
--Point(606,406) in cluster: 3
--Point(951,600) in cluster: 0
--Point(559,366) in cluster: 3
--Point(192,927) in cluster: 1
--Point(27,959) in cluster: 1
--Point(164,693) in cluster: 1
--Point(980,568) in cluster: 0
--Point(69,122) in cluster: 2
--Point(603,166) in cluster: 3
--Point(348,362) in cluster: 2
--Point(386,713) in cluster: 1
--Point(65,345) in cluster: 2
--Point(818,200) in cluster: 4
--Point(226,405) in cluster: 2
--Point(60,738) in cluster: 1
--Point(394,693) in cluster: 1
--Point(320,708) in cluster: 1
--Point(38,528) in cluster: 2
--Point(480,429) in cluster: 3
--Point(443,675) in cluster: 1
--Point(400,236) in cluster: 3
--Point(908,839) in cluster: 0
--Point(888,357) in cluster: 4
--Point(817,160) in cluster: 4
--Point(483,586) in cluster: 1
--Point(671,467) in cluster: 4
--Point(416,874) in cluster: 1
--Point(694,583) in cluster: 0
--Point(177,532) in cluster: 2
--Point(57,968) in cluster: 1
--Point(150,721) in cluster: 1
--Point(707,801) in cluster: 0
--Point(742,615) in cluster: 0
--Point(601,615) in cluster: 0
--Point(82,511) in cluster: 2
--Point(232,883) in cluster: 1
--Point(51,572) in cluster: 2
--Point(14,254) in cluster: 2
--Point(38,34) in cluster: 2
--Point(131,350) in cluster: 2
--Point(107,333) in cluster: 2
--Point(27,884) in cluster: 1
--Point(893,58) in cluster: 4
--Point(423,62) in cluster: 3
--Point(618,963) in cluster: 0
--Point(522,823) in cluster: 0
--Point(782,66) in cluster: 4
--Point(61,312) in cluster: 2
--Point(344,720) in cluster: 1
--Point(403,384) in cluster: 3
--Point(274,926) in cluster: 1
--Point(660,304) in cluster: 3
--Point(294,30) in cluster: 3
--Point(739,6) in cluster: 4
--Point(482,894) in cluster: 1
--Point(378,216) in cluster: 3
--Point(720,920) in cluster: 0
--Point(276,746) in cluster: 1
--Point(650,726) in cluster: 0
--Point(181,432) in cluster: 2
--Point(724,12) in cluster: 4
--Point(455,256) in cluster: 3
--Point(419,198) in cluster: 3
--Point(752,859) in cluster: 0
--Point(282,98) in cluster: 2
--Point(994,304) in cluster: 4
--Point(647,212) in cluster: 3
--Point(399,883) in cluster: 1
--Point(229,560) in cluster: 1
--Point(77,489) in cluster: 2
--Point(833,89) in cluster: 4
--Point(866,346) in cluster: 4
--Point(147,357) in cluster: 2
--Point(309,460) in cluster: 2
--Point(138,64) in cluster: 2
--Point(741,575) in cluster: 0
--Point(414,66) in cluster: 3
--Point(563,806) in cluster: 0
--Point(814,500) in cluster: 0
--Point(827,574) in cluster: 0
--Point(827,815) in cluster: 0
--Point(951,895) in cluster: 0
--Point(655,1000) in cluster: 0
--Point(19,441) in cluster: 2
--Point(512,234) in cluster: 3
--Point(456,910) in cluster: 1
--Point(417,211) in cluster: 3
--Point(765,232) in cluster: 4
--Point(981,944) in cluster: 0
--Point(536,125) in cluster: 3
--Point(618,757) in cluster: 0
--Point(888,5) in cluster: 4
+- Point(138,718) in cluster: 3
+- Point(608,621) in cluster: 1
+- Point(545,402) in cluster: 0
+- Point(155,319) in cluster: 2
+- Point(973,207) in cluster: 0
+- Point(512,298) in cluster: 0
+- Point(12,780) in cluster: 3
+- Point(908,77) in cluster: 0
+- Point(861,603) in cluster: 4
+- Point(665,203) in cluster: 0
+- Point(980,318) in cluster: 0
+- Point(642,219) in cluster: 0
+- Point(14,575) in cluster: 3
+- Point(829,931) in cluster: 4
+- Point(622,171) in cluster: 0
+- Point(889,535) in cluster: 4
+- Point(656,271) in cluster: 0
+- Point(710,580) in cluster: 4
+- Point(542,830) in cluster: 1
+- Point(67,266) in cluster: 2
+- Point(184,916) in cluster: 3
+- Point(134,275) in cluster: 2
+- Point(514,63) in cluster: 0
+- Point(496,531) in cluster: 1
+- Point(699,568) in cluster: 4
+- Point(88,635) in cluster: 3
+- Point(938,689) in cluster: 4
+- Point(656,104) in cluster: 0
+- Point(886,672) in cluster: 4
+- Point(295,933) in cluster: 3
+- Point(821,298) in cluster: 0
+- Point(371,31) in cluster: 2
+- Point(983,422) in cluster: 0
+- Point(304,474) in cluster: 2
+- Point(117,600) in cluster: 3
+- Point(679,804) in cluster: 1
+- Point(858,75) in cluster: 0
+- Point(190,293) in cluster: 2
+- Point(240,941) in cluster: 3
+- Point(129,639) in cluster: 3
+- Point(841,275) in cluster: 0
+- Point(241,843) in cluster: 3
+- Point(210,236) in cluster: 2
+- Point(497,617) in cluster: 1
+- Point(676,745) in cluster: 1
+- Point(187,426) in cluster: 2
+- Point(546,726) in cluster: 1
+- Point(725,366) in cluster: 0
+- Point(806,540) in cluster: 4
+- Point(853,288) in cluster: 0
+- Point(411,712) in cluster: 1
+- Point(732,765) in cluster: 4
+- Point(85,643) in cluster: 3
+- Point(487,454) in cluster: 1
+- Point(82,897) in cluster: 3
+- Point(387,133) in cluster: 2
+- Point(870,901) in cluster: 4
+- Point(57,681) in cluster: 3
+- Point(201,778) in cluster: 3
+- Point(699,364) in cluster: 0
+- Point(744,820) in cluster: 4
+- Point(940,593) in cluster: 4
+- Point(959,818) in cluster: 4
+- Point(23,652) in cluster: 3
+- Point(139,959) in cluster: 3
+- Point(217,149) in cluster: 2
+- Point(155,104) in cluster: 2
+- Point(931,715) in cluster: 4
+- Point(260,725) in cluster: 3
+- Point(422,103) in cluster: 2
+- Point(648,20) in cluster: 0
+- Point(160,798) in cluster: 3
+- Point(84,47) in cluster: 2
+- Point(884,644) in cluster: 4
+- Point(348,976) in cluster: 1
+- Point(367,530) in cluster: 1
+- Point(556,419) in cluster: 0
+- Point(687,59) in cluster: 0
+- Point(294,842) in cluster: 3
+- Point(661,924) in cluster: 1
+- Point(970,368) in cluster: 0
+- Point(422,527) in cluster: 1
+- Point(30,971) in cluster: 3
+- Point(753,687) in cluster: 4
+- Point(630,1000) in cluster: 1
+- Point(775,534) in cluster: 4
+- Point(656,784) in cluster: 1
+- Point(795,892) in cluster: 4
+- Point(73,95) in cluster: 2
+- Point(441,724) in cluster: 1
+- Point(352,333) in cluster: 2
+- Point(439,692) in cluster: 1
+- Point(897,206) in cluster: 0
+- Point(419,62) in cluster: 2
+- Point(523,359) in cluster: 0
+- Point(296,285) in cluster: 2
+- Point(996,284) in cluster: 0
+- Point(213,526) in cluster: 3
+- Point(104,761) in cluster: 3
+- Point(887,62) in cluster: 0
+- Point(223,623) in cluster: 3
+- Point(430,939) in cluster: 1
+- Point(390,817) in cluster: 1
+- Point(73,262) in cluster: 2
+- Point(716,650) in cluster: 4
+- Point(968,265) in cluster: 0
+- Point(540,16) in cluster: 0
+- Point(295,947) in cluster: 3
+- Point(599,714) in cluster: 1
+- Point(801,637) in cluster: 4
+- Point(882,315) in cluster: 0
+- Point(840,298) in cluster: 0
+- Point(655,282) in cluster: 0
+- Point(201,239) in cluster: 2
+- Point(426,164) in cluster: 2
+- Point(790,511) in cluster: 4
+- Point(271,967) in cluster: 3
+- Point(572,941) in cluster: 1
+- Point(727,292) in cluster: 0
+- Point(512,644) in cluster: 1
+- Point(839,886) in cluster: 4
+- Point(138,473) in cluster: 2
+- Point(345,758) in cluster: 1
+- Point(656,869) in cluster: 1
+- Point(942,877) in cluster: 4
+- Point(899,912) in cluster: 4
+- Point(88,226) in cluster: 2
+- Point(943,69) in cluster: 0
+- Point(888,483) in cluster: 4
+- Point(368,814) in cluster: 1
+- Point(173,161) in cluster: 2
+- Point(676,501) in cluster: 4
+- Point(444,452) in cluster: 2
+- Point(865,666) in cluster: 4
+- Point(141,220) in cluster: 2
+- Point(15,168) in cluster: 2
+- Point(650,105) in cluster: 0
+- Point(906,649) in cluster: 4
+- Point(615,557) in cluster: 1
+- Point(43,289) in cluster: 2
+- Point(378,203) in cluster: 2
+- Point(922,751) in cluster: 4
+- Point(141,643) in cluster: 3
+- Point(765,66) in cluster: 0
+- Point(683,10) in cluster: 0
+- Point(681,654) in cluster: 4
+- Point(970,518) in cluster: 4
+- Point(407,766) in cluster: 1
+- Point(895,365) in cluster: 0
+- Point(727,769) in cluster: 4
+- Point(768,90) in cluster: 0
+- Point(159,921) in cluster: 3
+- Point(518,657) in cluster: 1
+- Point(998,534) in cluster: 4
+- Point(543,908) in cluster: 1
+- Point(813,304) in cluster: 0
+- Point(871,701) in cluster: 4
+- Point(734,527) in cluster: 4
+- Point(789,674) in cluster: 4
+- Point(831,345) in cluster: 0
+- Point(771,119) in cluster: 0
+- Point(662,31) in cluster: 0
+- Point(603,936) in cluster: 1
+- Point(443,763) in cluster: 1
+- Point(365,774) in cluster: 1
+- Point(767,567) in cluster: 4
+- Point(768,275) in cluster: 0
+- Point(251,156) in cluster: 2
+- Point(590,423) in cluster: 0
+- Point(19,638) in cluster: 3
+- Point(642,777) in cluster: 1
+- Point(576,166) in cluster: 0
+- Point(573,605) in cluster: 1
+- Point(692,612) in cluster: 4
+- Point(457,726) in cluster: 1
+- Point(74,307) in cluster: 2
+- Point(960,61) in cluster: 0
+- Point(320,108) in cluster: 2
+- Point(654,494) in cluster: 1
+- Point(844,904) in cluster: 4
+- Point(310,827) in cluster: 3
+- Point(978,751) in cluster: 4
+- Point(497,96) in cluster: 0
+- Point(999,50) in cluster: 0
+- Point(253,630) in cluster: 3
+- Point(112,143) in cluster: 2
+- Point(453,486) in cluster: 1
+- Point(451,203) in cluster: 2
+- Point(777,930) in cluster: 4
+- Point(623,876) in cluster: 1
+- Point(160,209) in cluster: 2
+- Point(535,638) in cluster: 1
+- Point(546,886) in cluster: 1
+- Point(519,843) in cluster: 1
+- Point(514,615) in cluster: 1
+- Point(718,149) in cluster: 0
+- Point(360,126) in cluster: 2
+- Point(137,332) in cluster: 2
+- Point(816,48) in cluster: 0
+- Point(933,733) in cluster: 4
+- Point(76,940) in cluster: 3
+- Point(548,909) in cluster: 1
+- Point(724,923) in cluster: 4
+- Point(346,428) in cluster: 2
+- Point(380,695) in cluster: 1
+- Point(666,29) in cluster: 0
+- Point(654,703) in cluster: 1
+- Point(384,97) in cluster: 2
+- Point(107,448) in cluster: 2
+- Point(444,100) in cluster: 2
+- Point(557,479) in cluster: 1
+- Point(435,388) in cluster: 2
+- Point(898,476) in cluster: 4
+- Point(679,343) in cluster: 0
+- Point(518,879) in cluster: 1
+- Point(961,761) in cluster: 4
+- Point(656,871) in cluster: 1
+- Point(601,83) in cluster: 0
+- Point(613,745) in cluster: 1
+- Point(367,162) in cluster: 2
+- Point(346,499) in cluster: 2
+- Point(443,135) in cluster: 2
+- Point(989,808) in cluster: 4
+- Point(679,128) in cluster: 0
+- Point(988,731) in cluster: 4
+- Point(772,889) in cluster: 4
+- Point(934,348) in cluster: 0
+- Point(708,364) in cluster: 0
+- Point(278,201) in cluster: 2
+- Point(49,799) in cluster: 3
+- Point(302,372) in cluster: 2
+- Point(869,203) in cluster: 0
+- Point(933,16) in cluster: 0
+- Point(148,24) in cluster: 2
+- Point(306,55) in cluster: 2
+- Point(360,215) in cluster: 2
+- Point(880,610) in cluster: 4
+- Point(618,666) in cluster: 1
+- Point(596,919) in cluster: 1
+- Point(94,798) in cluster: 3
+- Point(425,922) in cluster: 1
+- Point(651,710) in cluster: 1
+- Point(947,395) in cluster: 0
+- Point(827,182) in cluster: 0
+- Point(916,673) in cluster: 4
+- Point(66,662) in cluster: 3
+- Point(187,543) in cluster: 3
+- Point(824,597) in cluster: 4
+- Point(635,907) in cluster: 1
+- Point(153,540) in cluster: 3
+- Point(473,907) in cluster: 1
+- Point(444,232) in cluster: 2
+- Point(169,63) in cluster: 2
+- Point(121,174) in cluster: 2
+- Point(794,312) in cluster: 0
+- Point(571,733) in cluster: 1
+- Point(163,849) in cluster: 3
+- Point(716,655) in cluster: 4
+- Point(296,168) in cluster: 2
+- Point(654,863) in cluster: 1
+- Point(140,969) in cluster: 3
+- Point(942,704) in cluster: 4
+- Point(961,997) in cluster: 4
+- Point(282,530) in cluster: 3
+- Point(906,841) in cluster: 4
+- Point(863,411) in cluster: 0
+- Point(576,135) in cluster: 0
+- Point(492,422) in cluster: 2
+- Point(883,876) in cluster: 4
+- Point(577,214) in cluster: 0
+- Point(931,546) in cluster: 4
+- Point(165,419) in cluster: 2
+- Point(678,239) in cluster: 0
+- Point(50,17) in cluster: 2
+- Point(712,694) in cluster: 4
+- Point(321,429) in cluster: 2
+- Point(61,783) in cluster: 3
+- Point(8,35) in cluster: 2
+- Point(492,113) in cluster: 2
+- Point(504,687) in cluster: 1
+- Point(380,180) in cluster: 2
+- Point(726,766) in cluster: 4
+- Point(904,751) in cluster: 4
+- Point(239,872) in cluster: 3
+- Point(790,410) in cluster: 0
+- Point(674,876) in cluster: 1
+- Point(895,177) in cluster: 0
+- Point(326,160) in cluster: 2
+- Point(654,776) in cluster: 1
+- Point(592,151) in cluster: 0
+- Point(243,211) in cluster: 2
+- Point(760,31) in cluster: 0
+- Point(396,699) in cluster: 1
+- Point(446,669) in cluster: 1
+- Point(969,105) in cluster: 0
+- Point(719,821) in cluster: 4
+- Point(305,182) in cluster: 2
+- Point(931,728) in cluster: 4
+- Point(778,230) in cluster: 0
+- Point(720,601) in cluster: 4
+- Point(816,550) in cluster: 4
+- Point(95,406) in cluster: 2
+- Point(35,158) in cluster: 2
+- Point(253,281) in cluster: 2
+- Point(690,108) in cluster: 0
+- Point(516,815) in cluster: 1
+- Point(174,192) in cluster: 2
+- Point(180,866) in cluster: 3
+- Point(211,885) in cluster: 3
+- Point(522,75) in cluster: 0
+- Point(502,664) in cluster: 1
+- Point(96,43) in cluster: 2
+- Point(363,703) in cluster: 1
+- Point(25,230) in cluster: 2
+- Point(933,593) in cluster: 4
+- Point(135,281) in cluster: 2
+- Point(365,878) in cluster: 1
+- Point(696,84) in cluster: 0
+- Point(560,679) in cluster: 1
+- Point(204,419) in cluster: 2
+- Point(173,950) in cluster: 3
+- Point(269,988) in cluster: 3
+- Point(893,683) in cluster: 4
+- Point(400,62) in cluster: 2
+- Point(532,204) in cluster: 0
+- Point(90,341) in cluster: 2
+- Point(746,902) in cluster: 4
+- Point(492,208) in cluster: 2
+- Point(158,32) in cluster: 2
+- Point(810,898) in cluster: 4
+- Point(958,632) in cluster: 4
+- Point(543,250) in cluster: 0
+- Point(158,242) in cluster: 2
+- Point(972,468) in cluster: 4
+- Point(220,220) in cluster: 2
+- Point(71,298) in cluster: 2
+- Point(647,732) in cluster: 1
+- Point(239,909) in cluster: 3
+- Point(453,893) in cluster: 1
+- Point(485,578) in cluster: 1
+- Point(885,876) in cluster: 4
+- Point(750,661) in cluster: 4
+- Point(195,423) in cluster: 2
+- Point(893,648) in cluster: 4
+- Point(314,527) in cluster: 3
+- Point(199,39) in cluster: 2
+- Point(173,466) in cluster: 2
+- Point(930,390) in cluster: 0
+- Point(62,502) in cluster: 3
+- Point(185,252) in cluster: 2
+- Point(137,165) in cluster: 2
+- Point(689,916) in cluster: 1
+- Point(342,314) in cluster: 2
+- Point(524,266) in cluster: 0
+- Point(339,616) in cluster: 3
+- Point(984,371) in cluster: 0
+- Point(206,848) in cluster: 3
+- Point(830,673) in cluster: 4
+- Point(78,552) in cluster: 3
+- Point(309,753) in cluster: 3
+- Point(552,170) in cluster: 0
+- Point(795,820) in cluster: 4
+- Point(362,749) in cluster: 1
+- Point(421,616) in cluster: 1
+- Point(0,142) in cluster: 2
+- Point(5,509) in cluster: 3
+- Point(979,485) in cluster: 4
+- Point(204,470) in cluster: 2
+- Point(967,918) in cluster: 4
+- Point(130,166) in cluster: 2
+- Point(581,550) in cluster: 1
+- Point(306,691) in cluster: 3
+- Point(954,890) in cluster: 4
+- Point(996,668) in cluster: 4
+- Point(781,219) in cluster: 0
+- Point(778,659) in cluster: 4
+- Point(107,617) in cluster: 3
+- Point(497,854) in cluster: 1
+- Point(857,939) in cluster: 4
+- Point(881,581) in cluster: 4
+- Point(383,430) in cluster: 2
+- Point(681,707) in cluster: 1
+- Point(936,90) in cluster: 0
+- Point(238,751) in cluster: 3
+- Point(241,867) in cluster: 3
+- Point(776,97) in cluster: 0
+- Point(967,71) in cluster: 0
+- Point(735,777) in cluster: 4
+- Point(352,827) in cluster: 1
+- Point(448,8) in cluster: 2
+- Point(581,520) in cluster: 1
+- Point(956,391) in cluster: 0
+- Point(546,427) in cluster: 0
+- Point(512,179) in cluster: 0
+- Point(979,383) in cluster: 0
+- Point(874,752) in cluster: 4
+- Point(263,698) in cluster: 3
+- Point(218,455) in cluster: 2
+- Point(295,8) in cluster: 2
+- Point(65,954) in cluster: 3
+- Point(123,352) in cluster: 2
+- Point(222,864) in cluster: 3
+- Point(550,489) in cluster: 1
+- Point(459,889) in cluster: 1
+- Point(47,425) in cluster: 2
+- Point(553,273) in cluster: 0
+- Point(640,48) in cluster: 0
+- Point(352,572) in cluster: 1
+- Point(640,409) in cluster: 0
+- Point(861,117) in cluster: 0
+- Point(516,973) in cluster: 1
+- Point(595,45) in cluster: 0
+- Point(504,357) in cluster: 2
+- Point(155,657) in cluster: 3
+- Point(399,638) in cluster: 1
+- Point(933,420) in cluster: 0
+- Point(297,190) in cluster: 2
+- Point(215,770) in cluster: 3
+- Point(614,243) in cluster: 0
+- Point(764,569) in cluster: 4
+- Point(401,434) in cluster: 2
+- Point(576,346) in cluster: 0
+- Point(970,373) in cluster: 0
+- Point(174,989) in cluster: 3
+- Point(860,508) in cluster: 4
+- Point(589,345) in cluster: 0
+- Point(51,831) in cluster: 3
+- Point(333,73) in cluster: 2
+- Point(221,982) in cluster: 3
+- Point(617,437) in cluster: 0
+- Point(701,553) in cluster: 4
+- Point(661,515) in cluster: 4
+- Point(269,22) in cluster: 2
+- Point(328,342) in cluster: 2
+- Point(837,900) in cluster: 4
+- Point(919,55) in cluster: 0
+- Point(173,377) in cluster: 2
+- Point(323,640) in cluster: 3
+- Point(623,266) in cluster: 0
+- Point(525,17) in cluster: 0
+- Point(586,484) in cluster: 1
+- Point(484,636) in cluster: 1
+- Point(569,687) in cluster: 1
+- Point(213,866) in cluster: 3
+- Point(120,295) in cluster: 2
+- Point(671,801) in cluster: 1
+- Point(230,21) in cluster: 2
+- Point(334,378) in cluster: 2
+- Point(19,245) in cluster: 2
+- Point(681,545) in cluster: 4
+- Point(116,315) in cluster: 2
+- Point(544,581) in cluster: 1
+- Point(393,281) in cluster: 2
+- Point(416,320) in cluster: 2
+- Point(115,1000) in cluster: 3
+- Point(677,925) in cluster: 1
+- Point(207,970) in cluster: 3
+- Point(22,652) in cluster: 3
+- Point(516,91) in cluster: 0
+- Point(591,123) in cluster: 0
+- Point(28,118) in cluster: 2
+- Point(374,928) in cluster: 1
+- Point(977,348) in cluster: 0
+- Point(411,341) in cluster: 2
+- Point(465,909) in cluster: 1
+- Point(673,199) in cluster: 0
+- Point(974,438) in cluster: 4
+- Point(898,37) in cluster: 0
+- Point(62,743) in cluster: 3
+- Point(506,818) in cluster: 1
+- Point(39,358) in cluster: 2
+- Point(28,938) in cluster: 3
+- Point(125,792) in cluster: 3
+- Point(330,101) in cluster: 2
+- Point(545,977) in cluster: 1
+- Point(854,129) in cluster: 0
+- Point(368,669) in cluster: 1
+- Point(43,145) in cluster: 2
+- Point(197,142) in cluster: 2
+- Point(537,654) in cluster: 1
+- Point(260,578) in cluster: 3
+- Point(955,721) in cluster: 4
+- Point(354,321) in cluster: 2
+- Point(277,167) in cluster: 2
+- Point(604,309) in cluster: 0
+- Point(214,556) in cluster: 3
+- Point(286,616) in cluster: 3
+- Point(134,405) in cluster: 2
+- Point(2,728) in cluster: 3
+- Point(311,72) in cluster: 2
+- Point(514,413) in cluster: 0
+- Point(881,116) in cluster: 0
+- Point(233,254) in cluster: 2
+- Point(994,865) in cluster: 4
+- Point(882,880) in cluster: 4
+- Point(852,722) in cluster: 4
+- Point(350,891) in cluster: 1
+- Point(536,917) in cluster: 1
+- Point(741,523) in cluster: 4
+- Point(961,469) in cluster: 4
+- Point(292,843) in cluster: 3
+- Point(449,982) in cluster: 1
+- Point(667,791) in cluster: 1
+- Point(901,989) in cluster: 4
+- Point(44,554) in cluster: 3
+- Point(262,423) in cluster: 2
+- Point(103,241) in cluster: 2
+- Point(770,124) in cluster: 0
+- Point(307,676) in cluster: 3
+- Point(751,616) in cluster: 4
+- Point(812,58) in cluster: 0
+- Point(320,703) in cluster: 3
+- Point(166,764) in cluster: 3
+- Point(914,841) in cluster: 4
+- Point(69,18) in cluster: 2
+- Point(111,646) in cluster: 3
+- Point(785,401) in cluster: 0
+- Point(173,569) in cluster: 3
+- Point(56,237) in cluster: 2
+- Point(878,362) in cluster: 0
+- Point(473,724) in cluster: 1
+- Point(829,315) in cluster: 0
+- Point(976,948) in cluster: 4
+- Point(186,132) in cluster: 2
+- Point(773,147) in cluster: 0
+- Point(865,219) in cluster: 0
+- Point(972,583) in cluster: 4
+- Point(500,626) in cluster: 1
+- Point(749,734) in cluster: 4
+- Point(483,415) in cluster: 2
+- Point(19,890) in cluster: 3
+- Point(500,703) in cluster: 1
+- Point(95,171) in cluster: 2
+- Point(55,971) in cluster: 3
+- Point(783,149) in cluster: 0
+- Point(171,930) in cluster: 3
+- Point(793,987) in cluster: 4
+- Point(321,713) in cluster: 3
+- Point(51,195) in cluster: 2
+- Point(796,387) in cluster: 0
+- Point(23,396) in cluster: 2
+- Point(329,269) in cluster: 2
+- Point(832,247) in cluster: 0
+- Point(444,400) in cluster: 2
+- Point(7,314) in cluster: 2
+- Point(106,7) in cluster: 2
+- Point(157,353) in cluster: 2
+- Point(985,649) in cluster: 4
+- Point(704,459) in cluster: 0
+- Point(221,920) in cluster: 3
+- Point(425,973) in cluster: 1
+- Point(805,481) in cluster: 4
+- Point(879,681) in cluster: 4
+- Point(521,494) in cluster: 1
+- Point(965,793) in cluster: 4
+- Point(488,843) in cluster: 1
+- Point(114,229) in cluster: 2
+- Point(921,602) in cluster: 4
+- Point(137,23) in cluster: 2
+- Point(941,951) in cluster: 4
+- Point(792,186) in cluster: 0
+- Point(607,210) in cluster: 0
+- Point(919,953) in cluster: 4
+- Point(968,388) in cluster: 0
+- Point(7,497) in cluster: 3
+- Point(701,542) in cluster: 4
+- Point(16,257) in cluster: 2
+- Point(537,835) in cluster: 1
+- Point(804,847) in cluster: 4
+- Point(733,251) in cluster: 0
+- Point(681,287) in cluster: 0
+- Point(890,105) in cluster: 0
+- Point(492,317) in cluster: 2
+- Point(191,675) in cluster: 3
+- Point(348,937) in cluster: 1
+- Point(452,326) in cluster: 2
+- Point(670,868) in cluster: 1
+- Point(267,137) in cluster: 2
+- Point(359,738) in cluster: 1
+- Point(746,853) in cluster: 4
+- Point(37,122) in cluster: 2
+- Point(435,847) in cluster: 1
+- Point(994,317) in cluster: 0
+- Point(960,806) in cluster: 4
+- Point(926,878) in cluster: 4
+- Point(432,67) in cluster: 2
+- Point(663,80) in cluster: 0
+- Point(694,458) in cluster: 0
+- Point(770,233) in cluster: 0
+- Point(479,634) in cluster: 1
+- Point(727,377) in cluster: 0
+- Point(423,940) in cluster: 1
+- Point(365,367) in cluster: 2
+- Point(931,107) in cluster: 0
+- Point(993,255) in cluster: 0
+- Point(432,51) in cluster: 2
+- Point(676,445) in cluster: 0
+- Point(767,278) in cluster: 0
+- Point(495,690) in cluster: 1
+- Point(700,944) in cluster: 1
+- Point(151,93) in cluster: 2
+- Point(888,230) in cluster: 0
+- Point(288,124) in cluster: 2
+- Point(909,203) in cluster: 0
+- Point(487,622) in cluster: 1
+- Point(66,416) in cluster: 2
+- Point(881,129) in cluster: 0
+- Point(714,523) in cluster: 4
+- Point(801,242) in cluster: 0
+- Point(795,849) in cluster: 4
+- Point(149,55) in cluster: 2
+- Point(399,693) in cluster: 1
+- Point(403,927) in cluster: 1
+- Point(192,749) in cluster: 3
+- Point(509,27) in cluster: 0
+- Point(585,772) in cluster: 1
+- Point(738,83) in cluster: 0
+- Point(189,855) in cluster: 3
+- Point(267,705) in cluster: 3
+- Point(62,958) in cluster: 3
+- Point(836,730) in cluster: 4
+- Point(828,146) in cluster: 0
+- Point(77,183) in cluster: 2
+- Point(248,520) in cluster: 3
+- Point(383,90) in cluster: 2
+- Point(270,82) in cluster: 2
+- Point(399,707) in cluster: 1
+- Point(193,366) in cluster: 2
+- Point(337,959) in cluster: 3
+- Point(931,843) in cluster: 4
+- Point(242,707) in cluster: 3
+- Point(835,382) in cluster: 0
+- Point(29,967) in cluster: 3
+- Point(209,887) in cluster: 3
+- Point(957,492) in cluster: 4
+- Point(889,711) in cluster: 4
+- Point(56,196) in cluster: 2
+- Point(977,131) in cluster: 0
+- Point(444,597) in cluster: 1
+- Point(950,827) in cluster: 4
+- Point(381,628) in cluster: 1
+- Point(297,293) in cluster: 2
+- Point(43,570) in cluster: 3
+- Point(2,319) in cluster: 2
+- Point(690,811) in cluster: 1
+- Point(504,199) in cluster: 0
+- Point(488,186) in cluster: 2
+- Point(123,912) in cluster: 3
+- Point(93,349) in cluster: 2
+- Point(340,609) in cluster: 3
+- Point(255,489) in cluster: 2
+- Point(872,846) in cluster: 4
+- Point(862,238) in cluster: 0
+- Point(664,783) in cluster: 1
+- Point(913,692) in cluster: 4
+- Point(324,314) in cluster: 2
+- Point(575,551) in cluster: 1
+- Point(130,745) in cluster: 3
+- Point(306,230) in cluster: 2
+- Point(633,140) in cluster: 0
+- Point(367,729) in cluster: 1
+- Point(135,423) in cluster: 2
+- Point(397,921) in cluster: 1
+- Point(173,90) in cluster: 2
+- Point(115,788) in cluster: 3
+- Point(777,185) in cluster: 0
+- Point(48,178) in cluster: 2
+- Point(841,886) in cluster: 4
+- Point(806,895) in cluster: 4
+- Point(451,39) in cluster: 2
+- Point(330,946) in cluster: 3
+- Point(435,559) in cluster: 1
+- Point(790,15) in cluster: 0
+- Point(614,297) in cluster: 0
+- Point(435,29) in cluster: 2
+- Point(529,214) in cluster: 0
+- Point(950,608) in cluster: 4
+- Point(382,112) in cluster: 2
+- Point(638,562) in cluster: 1
+- Point(2,729) in cluster: 3
+- Point(406,249) in cluster: 2
+- Point(422,472) in cluster: 2
+- Point(529,102) in cluster: 0
+- Point(397,377) in cluster: 2
+- Point(980,223) in cluster: 0
+- Point(89,59) in cluster: 2
+- Point(322,836) in cluster: 3
+- Point(730,175) in cluster: 0
+- Point(754,622) in cluster: 4
+- Point(167,783) in cluster: 3
+- Point(561,587) in cluster: 1
+- Point(561,477) in cluster: 1
+- Point(882,986) in cluster: 4
+- Point(548,440) in cluster: 0
+- Point(837,162) in cluster: 0
+- Point(467,418) in cluster: 2
+- Point(45,237) in cluster: 2
+- Point(23,177) in cluster: 2
+- Point(982,676) in cluster: 4
+- Point(65,842) in cluster: 3
+- Point(181,197) in cluster: 2
+- Point(427,840) in cluster: 1
+- Point(884,979) in cluster: 4
+- Point(894,232) in cluster: 0
+- Point(530,974) in cluster: 1
+- Point(196,360) in cluster: 2
+- Point(835,354) in cluster: 0
+- Point(960,838) in cluster: 4
+- Point(736,540) in cluster: 4
+- Point(795,49) in cluster: 0
+- Point(136,953) in cluster: 3
+- Point(83,625) in cluster: 3
+- Point(400,243) in cluster: 2
+- Point(937,86) in cluster: 0
+- Point(536,257) in cluster: 0
+- Point(821,526) in cluster: 4
+- Point(679,35) in cluster: 0
+- Point(488,680) in cluster: 1
+- Point(990,256) in cluster: 0
+- Point(406,806) in cluster: 1
+- Point(988,327) in cluster: 0
+- Point(760,744) in cluster: 4
+- Point(358,120) in cluster: 2
+- Point(362,119) in cluster: 2
+- Point(978,163) in cluster: 0
+- Point(302,599) in cluster: 3
+- Point(315,256) in cluster: 2
+- Point(388,956) in cluster: 1
+- Point(763,916) in cluster: 4
+- Point(139,788) in cluster: 3
+- Point(485,341) in cluster: 2
+- Point(685,897) in cluster: 1
+- Point(453,91) in cluster: 2
+- Point(749,648) in cluster: 4
+- Point(434,803) in cluster: 1
+- Point(9,9) in cluster: 2
+- Point(598,763) in cluster: 1
+- Point(730,716) in cluster: 4
+- Point(881,90) in cluster: 0
+- Point(337,442) in cluster: 2
+- Point(634,430) in cluster: 0
+- Point(196,971) in cluster: 3
+- Point(637,908) in cluster: 1
+- Point(637,584) in cluster: 1
+- Point(771,486) in cluster: 4
+- Point(865,158) in cluster: 0
+- Point(391,168) in cluster: 2
+- Point(287,609) in cluster: 3
+- Point(142,985) in cluster: 3
+- Point(714,243) in cluster: 0
+- Point(320,310) in cluster: 2
+- Point(931,783) in cluster: 4
+- Point(376,71) in cluster: 2
+- Point(572,88) in cluster: 0
+- Point(216,679) in cluster: 3
+- Point(987,537) in cluster: 4
+- Point(625,990) in cluster: 1
+- Point(288,449) in cluster: 2
+- Point(939,963) in cluster: 4
+- Point(146,380) in cluster: 2
+- Point(886,757) in cluster: 4
+- Point(625,356) in cluster: 0
+- Point(489,401) in cluster: 2
+- Point(163,370) in cluster: 2
+- Point(99,970) in cluster: 3
+- Point(459,57) in cluster: 2
+- Point(66,526) in cluster: 3
+- Point(910,48) in cluster: 0
+- Point(61,821) in cluster: 3
+- Point(825,887) in cluster: 4
+- Point(257,14) in cluster: 2
+- Point(886,244) in cluster: 0
+- Point(42,484) in cluster: 3
+- Point(163,975) in cluster: 3
+- Point(628,18) in cluster: 0
+- Point(703,992) in cluster: 1
+- Point(241,89) in cluster: 2
+- Point(407,155) in cluster: 2
+- Point(518,805) in cluster: 1
+- Point(389,386) in cluster: 2
+- Point(680,625) in cluster: 4
+- Point(573,942) in cluster: 1
+- Point(933,778) in cluster: 4
+- Point(695,441) in cluster: 0
+- Point(706,977) in cluster: 1
+- Point(276,592) in cluster: 3
+- Point(618,235) in cluster: 0
+- Point(610,696) in cluster: 1
+- Point(669,4) in cluster: 0
+- Point(303,162) in cluster: 2
+- Point(393,881) in cluster: 1
+- Point(827,253) in cluster: 0
+- Point(382,766) in cluster: 1
+- Point(142,412) in cluster: 2
+- Point(749,52) in cluster: 0
+- Point(601,923) in cluster: 1
+- Point(643,136) in cluster: 0
+- Point(479,318) in cluster: 2
+- Point(382,267) in cluster: 2
+- Point(534,154) in cluster: 0
+- Point(873,294) in cluster: 0
+- Point(459,213) in cluster: 2
+- Point(748,852) in cluster: 4
+- Point(216,168) in cluster: 2
+- Point(320,40) in cluster: 2
+- Point(241,859) in cluster: 3
+- Point(928,423) in cluster: 0
+- Point(571,216) in cluster: 0
+- Point(347,119) in cluster: 2
+- Point(514,862) in cluster: 1
+- Point(150,90) in cluster: 2
+- Point(241,686) in cluster: 3
+- Point(19,839) in cluster: 3
+- Point(275,282) in cluster: 2
+- Point(547,169) in cluster: 0
+- Point(868,645) in cluster: 4
+- Point(584,58) in cluster: 0
+- Point(120,296) in cluster: 2
+- Point(371,813) in cluster: 1
+- Point(810,6) in cluster: 0
+- Point(320,133) in cluster: 2
+- Point(665,9) in cluster: 0
+- Point(210,385) in cluster: 2
+- Point(717,847) in cluster: 4
+- Point(994,451) in cluster: 4
+- Point(986,445) in cluster: 4
+- Point(213,635) in cluster: 3
+- Point(1000,153) in cluster: 0
+- Point(477,389) in cluster: 2
+- Point(9,575) in cluster: 3
+- Point(246,739) in cluster: 3
+- Point(821,554) in cluster: 4
+- Point(496,231) in cluster: 2
+- Point(628,966) in cluster: 1
+- Point(406,436) in cluster: 2
+- Point(621,177) in cluster: 0
+- Point(641,722) in cluster: 1
+- Point(802,821) in cluster: 4
+- Point(15,753) in cluster: 3
+- Point(15,653) in cluster: 3
+- Point(64,132) in cluster: 2
+- Point(248,54) in cluster: 2
+- Point(1,262) in cluster: 2
+- Point(46,513) in cluster: 3
+- Point(422,838) in cluster: 1
+- Point(97,586) in cluster: 3
+- Point(719,260) in cluster: 0
+- Point(490,631) in cluster: 1
+- Point(169,874) in cluster: 3
+- Point(290,122) in cluster: 2
+- Point(558,701) in cluster: 1
+- Point(813,619) in cluster: 4
+- Point(967,658) in cluster: 4
+- Point(405,407) in cluster: 2
+- Point(139,478) in cluster: 2
+- Point(965,893) in cluster: 4
+- Point(298,954) in cluster: 3
+- Point(329,107) in cluster: 2
+- Point(911,682) in cluster: 4
+- Point(575,527) in cluster: 1
+- Point(817,399) in cluster: 0
+- Point(347,409) in cluster: 2
+- Point(364,328) in cluster: 2
+- Point(619,333) in cluster: 0
+- Point(642,173) in cluster: 0
+- Point(130,404) in cluster: 2
+- Point(887,513) in cluster: 4
+- Point(605,553) in cluster: 1
+- Point(302,854) in cluster: 3
+- Point(186,204) in cluster: 2
+- Point(885,463) in cluster: 4
+- Point(60,814) in cluster: 3
+- Point(419,594) in cluster: 1
+- Point(557,7) in cluster: 0
+- Point(903,58) in cluster: 0
+- Point(208,519) in cluster: 3
+- Point(521,652) in cluster: 1
+- Point(592,393) in cluster: 0
+- Point(978,513) in cluster: 4
+- Point(971,253) in cluster: 0
+- Point(663,657) in cluster: 1
+- Point(820,148) in cluster: 0
+- Point(183,354) in cluster: 2
+- Point(892,303) in cluster: 0
+- Point(79,888) in cluster: 3
+- Point(770,442) in cluster: 0
+- Point(689,631) in cluster: 4
+- Point(21,991) in cluster: 3
+- Point(982,397) in cluster: 0
+- Point(680,678) in cluster: 1
+- Point(291,201) in cluster: 2
+- Point(78,811) in cluster: 3
+- Point(930,199) in cluster: 0
+- Point(89,203) in cluster: 2
+- Point(917,916) in cluster: 4
+- Point(267,228) in cluster: 2
+- Point(517,614) in cluster: 1
+- Point(748,33) in cluster: 0
+- Point(130,528) in cluster: 3
+- Point(764,272) in cluster: 0
+- Point(973,872) in cluster: 4
+- Point(533,848) in cluster: 1
+- Point(2,468) in cluster: 3
+- Point(21,621) in cluster: 3
+- Point(733,907) in cluster: 4
+- Point(674,558) in cluster: 4
+- Point(636,729) in cluster: 1
+- Point(904,948) in cluster: 4
+- Point(749,891) in cluster: 4
+- Point(592,177) in cluster: 0
+- Point(575,30) in cluster: 0
+- Point(145,87) in cluster: 2
+- Point(88,739) in cluster: 3
+- Point(760,634) in cluster: 4
+- Point(192,602) in cluster: 3
+- Point(56,360) in cluster: 2
+- Point(962,513) in cluster: 4
+- Point(303,981) in cluster: 3
+- Point(294,680) in cluster: 3
+- Point(17,598) in cluster: 3
+- Point(723,24) in cluster: 0
+- Point(668,625) in cluster: 1
+- Point(122,98) in cluster: 2
+- Point(751,554) in cluster: 4
+- Point(61,210) in cluster: 2
+- Point(27,455) in cluster: 2
+- Point(118,941) in cluster: 3
+- Point(715,113) in cluster: 0
+- Point(259,426) in cluster: 2
+- Point(465,864) in cluster: 1
+- Point(946,548) in cluster: 4
+- Point(461,508) in cluster: 1
+- Point(939,580) in cluster: 4
+- Point(287,485) in cluster: 2
+- Point(620,624) in cluster: 1
+- Point(399,266) in cluster: 2
+- Point(478,889) in cluster: 1
+- Point(436,255) in cluster: 2
+- Point(980,332) in cluster: 0
+- Point(609,417) in cluster: 0
+- Point(322,479) in cluster: 2
+- Point(304,74) in cluster: 2
+- Point(617,903) in cluster: 1
+- Point(562,93) in cluster: 0
+- Point(760,740) in cluster: 4
+- Point(994,358) in cluster: 0
+- Point(780,1) in cluster: 0
+- Point(726,239) in cluster: 0
+- Point(810,43) in cluster: 0
+- Point(666,634) in cluster: 1
+- Point(895,772) in cluster: 4
+- Point(669,538) in cluster: 4
+- Point(610,560) in cluster: 1
+- Point(665,771) in cluster: 1
+- Point(478,372) in cluster: 2
+- Point(223,800) in cluster: 3
+- Point(310,387) in cluster: 2
+- Point(350,270) in cluster: 2
+- Point(965,62) in cluster: 0
+- Point(890,565) in cluster: 4
+- Point(296,673) in cluster: 3
+- Point(624,333) in cluster: 0
+- Point(230,256) in cluster: 2
+- Point(173,870) in cluster: 3
+- Point(839,124) in cluster: 0
+- Point(287,94) in cluster: 2
+- Point(319,232) in cluster: 2
+- Point(834,804) in cluster: 4
+- Point(238,968) in cluster: 3
+- Point(851,952) in cluster: 4
+- Point(70,527) in cluster: 3
+- Point(694,180) in cluster: 0
+- Point(826,246) in cluster: 0
+- Point(355,371) in cluster: 2
+- Point(999,116) in cluster: 0
+- Point(243,770) in cluster: 3
+- Point(347,564) in cluster: 1
+- Point(858,220) in cluster: 0
+- Point(639,283) in cluster: 0
+- Point(674,227) in cluster: 0
+- Point(929,558) in cluster: 4
+- Point(731,836) in cluster: 4
+- Point(385,703) in cluster: 1
+- Point(1,81) in cluster: 2
+- Point(61,477) in cluster: 3
+- Point(44,566) in cluster: 3
+- Point(262,876) in cluster: 3
+- Point(556,817) in cluster: 1
+- Point(952,588) in cluster: 4
+- Point(834,777) in cluster: 4
+- Point(868,364) in cluster: 0
+- Point(366,340) in cluster: 2
+- Point(95,946) in cluster: 3
+- Point(252,591) in cluster: 3
+- Point(95,546) in cluster: 3
+- Point(324,616) in cluster: 3
+- Point(167,20) in cluster: 2
+- Point(360,128) in cluster: 2
+- Point(622,690) in cluster: 1
+- Point(311,660) in cluster: 3

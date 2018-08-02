@@ -1,7 +1,6 @@
 from sklearn.cluster import  KMeans
 import random as rd
 import numpy as np
-import matplotlib.pyplot as plt
 
 class Point:
     def __init__(self, _x, _y):
@@ -16,24 +15,6 @@ class Point:
         return (self.x == other.x and self.y == other.y and self.__class__ == other.__class__)
     def __arr__(self):
         return [[self.x, self.y]]
-
-def kmeans_display(X, label):
-    K = np.amax(label) + 1
-    X0 = X[label == 0, :]
-    X1 = X[label == 1, :]
-    X2 = X[label == 2, :]
-    X3 = X[label == 3, :]
-    X4 = X[label == 4, :]
-
-    plt.plot(X0[:, 0], X0[:, 1], 'g^', markersize=4, alpha=.8)
-    plt.plot(X1[:, 0], X1[:, 1], 'b+', markersize=4, alpha=.8)
-    plt.plot(X2[:, 0], X2[:, 1], 'bs', markersize=4, alpha=.8)
-    plt.plot(X3[:, 0], X3[:, 1], 'rx', markersize=4, alpha=.8)
-    plt.plot(X4[:, 0], X4[:, 1], 'ro', markersize=4, alpha=.8)
-
-    plt.axis('equal')
-    plt.plot()
-    plt.show()
 
 def genRamdomPoint( n ):
     result = np.array([[0, 0]])
@@ -51,6 +32,9 @@ def genRamdomPoint( n ):
 
 if __name__ == "__main__":
     X = genRamdomPoint(1000)
-    print(X)
     kmeans = KMeans(n_clusters=5, random_state= 0).fit(X)
-    kmeans_display(X, kmeans.labels_)
+    fw = open("output.txt", "w", encoding="utf8")
+    for elem in X:
+        s = "- Point(%d,%d) in cluster: %d\n" % (elem[0], elem[1], kmeans.predict([elem]))
+        fw.write(s)
+    fw.close()
